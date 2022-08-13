@@ -1,6 +1,6 @@
 # Must Learn
 Main page to the Must Learn series
 
-#Series
+# Current series list: 
 
 * Must Learn KQL https://github.com/rod-trent/MustLearnKQL
