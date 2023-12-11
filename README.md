@@ -3,7 +3,7 @@ Main page to the Must Learn series
 
 # Current series list: 
 
-* Must Learn KQL https://github.com/rod-trent/MustLearnKQL
-* Must Learn AI Security: https://rodtrent.substack.com/t/ai-security
-* Must Learn Quantum Security: https://github.com/rod-trent/QuantumSecurity
-* Must Learn Security Copilot: https://github.com/rod-trent/Security-Copilot
+* Must Learn KQL https://aka.ms/MustLearnKQL
+* Must Learn AI Security: https://aka.ms/MustLearnAISecurity
+* Must Learn Quantum Security: https://aka.ms/MustLearnQuantumSecurity
+* Must Learn Security Copilot: https://aka.ms/MustLearnSCP
